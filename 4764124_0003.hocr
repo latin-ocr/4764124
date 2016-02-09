@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4764124_0003.png"; bbox 0 0 3216 4142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 467 414 2533 785">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 467 414 2533 785">
+     <span class='ocr_line' id='line_1_1' title="bbox 467 414 2533 579; baseline -0.011 -10"><span class='ocrx_word' id='word_1_1' title='bbox 467 431 1286 569; x_wconf 78' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1395 425 1932 579; x_wconf 80' lang='lat' dir='ltr'>Weber,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1990 414 2533 552; x_wconf 82' lang='lat' dir='ltr'>Eduard</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 472 655 795 785; baseline -0.012 1"><span class='ocrx_word' id='word_1_4' title='bbox 472 655 795 785; x_wconf 85' lang='lat' dir='ltr'>Otto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 464 579 1302 597">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 464 579 1302 597">
+     <span class='ocr_line' id='line_1_3' title="bbox 464 579 1302 597; baseline 0 3545"><span class='ocrx_word' id='word_1_5' title='bbox 464 579 1302 597; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 472 1281 2610 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 472 1281 2610 1680">
+     <span class='ocr_line' id='line_1_4' title="bbox 472 1281 2407 1455; baseline -0.01 -26"><span class='ocrx_word' id='word_1_6' title='bbox 472 1298 1029 1429; x_wconf 88' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1146 1292 1675 1455; x_wconf 85' lang='lat' dir='ltr'>Quibus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1733 1288 1902 1419; x_wconf 81' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_9' title='bbox 1957 1281 2407 1415; x_wconf 81' lang='lat' dir='ltr'>causis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 476 1502 2610 1680; baseline -0.01 -35"><span class='ocrx_word' id='word_1_10' title='bbox 476 1515 968 1645; x_wconf 78' lang='lat' dir='ltr'>Cicero</span> <span class='ocrx_word' id='word_1_11' title='bbox 1023 1528 1335 1680; x_wconf 83' lang='lat' dir='ltr'>post</span> <span class='ocrx_word' id='word_1_12' title='bbox 1385 1506 1801 1636; x_wconf 82' lang='lat' dir='ltr'>libros</span> <span class='ocrx_word' id='word_1_13' title='bbox 1860 1502 2029 1632; x_wconf 81' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_14' title='bbox 2086 1515 2610 1629; x_wconf 79' lang='lat' dir='ltr'>oratore</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 476 1715 2321 2115">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 476 1715 2321 2115">
+     <span class='ocr_line' id='line_1_6' title="bbox 476 1715 2167 1862; baseline -0.011 0"><span class='ocrx_word' id='word_1_15' title='bbox 476 1729 915 1862; x_wconf 80' lang='lat' dir='ltr'>editos</span> <span class='ocrx_word' id='word_1_16' title='bbox 973 1725 1388 1856; x_wconf 80' lang='lat' dir='ltr'>etiam</span> <span class='ocrx_word' id='word_1_17' title='bbox 1442 1715 2167 1850; x_wconf 78' lang='lat' dir='ltr'>“Brutum”</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 482 1929 2321 2115; baseline -0.011 -37"><span class='ocrx_word' id='word_1_18' title='bbox 482 1942 1165 2115; x_wconf 80' lang='lat' dir='ltr'>scripserit</span> <span class='ocrx_word' id='word_1_19' title='bbox 1216 1958 1347 2071; x_wconf 82' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_20' title='bbox 1401 1929 2321 2068; x_wconf 79' lang='lat' dir='ltr'>“Oratorem”</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 469 1442 1046 1459">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 469 1442 1046 1459">
+     <span class='ocr_line' id='line_1_8' title="bbox 469 1442 1046 1459; baseline 0 2683"><span class='ocrx_word' id='word_1_21' title='bbox 469 1442 1046 1459; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 479 2587 1611 2754">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 479 2587 1611 2754">
+     <span class='ocr_line' id='line_1_9' title="bbox 479 2587 1611 2754; baseline -0.011 -28"><span class='ocrx_word' id='word_1_22' title='bbox 479 2593 1111 2725; x_wconf 78' lang='lat' dir='ltr'>PLACE:</span> <span class='ocrx_word' id='word_1_23' title='bbox 1237 2587 1611 2754; x_wconf 92' lang='lat' dir='ltr'><strong>[n.p.]</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 476 2738 1127 2754">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 476 2738 1127 2754">
+     <span class='ocr_line' id='line_1_10' title="bbox 476 2738 1127 2754; baseline 0 1388"><span class='ocrx_word' id='word_1_24' title='bbox 476 2738 1127 2754; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 483 3232 1503 3372">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 483 3232 1503 3372">
+     <span class='ocr_line' id='line_1_11' title="bbox 483 3232 1503 3372; baseline -0.011 1"><span class='ocrx_word' id='word_1_25' title='bbox 483 3242 1020 3372; x_wconf 80' lang='lat' dir='ltr'><strong>DATE:</strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 1152 3232 1503 3366; x_wconf 82' lang='lat'>1880</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 480 3385 1037 3401">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 480 3385 1037 3401">
+     <span class='ocr_line' id='line_1_12' title="bbox 480 3385 1037 3401; baseline 0 741"><span class='ocrx_word' id='word_1_27' title='bbox 480 3385 1037 3401; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
